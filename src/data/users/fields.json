@@ -1,0 +1,43 @@
+{
+    "fields":[
+      {
+        "key":"id",
+        "label":"ID",
+        "visible":true,
+        "allowHide":true
+      },
+   
+     
+      {
+        "key":"name",
+        "label":"name",
+        "visible":true,
+        "allowHide":true
+      },
+      {
+        "key":"email",
+        "label":"email",
+        "visible":true,
+        "allowHide":true
+      },
+      {
+        "key":"phone",
+        "label":"phone",
+        "visible":true,
+        "allowHide":true
+      },
+      {
+        "key":"is_admin",
+        "label":"role",
+        "visible":true,
+        "allowHide":true
+      },
+     
+      {
+        "key":"actions",
+        "label":"actions",
+        "visible":true,
+        "allowHide":false
+      }
+    ]
+  }

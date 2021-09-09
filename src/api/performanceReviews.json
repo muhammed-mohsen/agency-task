@@ -1,0 +1,97 @@
+{
+  "performanceReviews": [
+      {
+        
+        "id":1,
+        "title":"performanc review",
+        "reviewees":[
+            {
+        
+                "id":2,
+                "name":"reviewee1",
+                "phone":"01062006209",
+                "email":"reviewee@gmail.com",
+                "is_admin":false
+            
+            },
+            {
+                
+                "id":7,
+                "name":"reviewee2",
+                "phone":"01062006209",
+                "email":"reviewee2@gmail.com",
+                "is_admin":false
+            
+            }
+        ],
+        "reviewers":[
+            {
+        
+                "id":3,
+                "name":"reviewer1",
+                "phone":"01062006209",
+                "email":"reviewer1@gmail.com",
+                "is_admin":false
+            
+            },
+            {
+                
+                "id":4,
+                "name":"reviewer2",
+                "phone":"01062006209",
+                "email":"reviewer2@gmail.com",
+                "is_admin":false
+            
+            }
+        ]
+          
+    },
+      {
+        
+        "id":2,
+        "title":"performanc review",
+        "reviewees":[
+            {
+        
+                "id":2,
+                "name":"reviewee1",
+                "phone":"01062006209",
+                "email":"reviewee@gmail.com",
+                "is_admin":false
+            
+            },
+            {
+                
+                "id":7,
+                "name":"reviewee2",
+                "phone":"01062006209",
+                "email":"reviewee2@gmail.com",
+                "is_admin":false
+            
+            }
+        ],
+        "reviewers":[
+            {
+        
+                "id":3,
+                "name":"reviewer1",
+                "phone":"01062006209",
+                "email":"reviewer1@gmail.com",
+                "is_admin":false
+            
+            },
+            {
+                
+                "id":4,
+                "name":"reviewer2",
+                "phone":"01062006209",
+                "email":"reviewer2@gmail.com",
+                "is_admin":false
+            
+            }
+        ]
+          
+    }
+ 
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "fields":[
+      {
+        "key":"id",
+        "label":"ID",
+        "visible":true,
+        "allowHide":true
+      },
+   
+     
+      {
+        "key":"title",
+        "label":"title",
+        "visible":true,
+        "allowHide":true
+      },
+      {
+        "key":"reviewees",
+        "label":"reviewees",
+        "visible":true,
+        "allowHide":true
+      },
+      {
+        "key":"reviewers",
+        "label":"reviewers",
+        "visible":true,
+        "allowHide":true
+      },
+      {
+        "key":"actions",
+        "label":"",
+        "visible":true,
+        "allowHide":true
+      }
+  
+    ]
+  }

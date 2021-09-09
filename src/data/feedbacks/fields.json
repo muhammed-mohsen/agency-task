@@ -1,0 +1,32 @@
+{
+    "fields":[
+      {
+        "key":"id",
+        "label":"ID",
+        "visible":true,
+        "allowHide":true
+      },
+   
+     
+      {
+        "key":"performance_review.title",
+        "label":"performance review title",
+        "visible":true,
+        "allowHide":true
+      },
+      {
+        "key":"reviewee.name",
+        "label":"reviewee",
+        "visible":true,
+        "allowHide":true
+      },
+      {
+        "key":"status",
+        "label":"status",
+        "visible":true,
+        "allowHide":true
+      }
+   
+  
+    ]
+  }
